@@ -7,7 +7,7 @@
 ## RequiredDeps: DBM-Core
 ## Author: 连理, 听风轻咛
 ## Version: 20220210
-## Notes: https://gitee.com/usiege/dbm-vplianli
+## Notes: https://github.com/usiege/DBM-VPLianli
 ## X-DBM-Voice: 1
 ## X-DBM-Voice-Name: 连理
 ## X-DBM-Voice-ShortName: Lianli
