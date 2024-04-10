@@ -1,18 +1,22 @@
-## Interface: 90100
-## X-Min-Interface: 90100
+## Interface: 100206
+# X-Min-Interface: 100000
 
 ## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Voicepack Lianli|r
 ## Title-zhCN:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cFF00FF00连理语音包|r
 ## Title-zhTW:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0连理語音包|r
+
+
 ## DefaultState: enabled
 ## RequiredDeps: DBM-Core
 ## Author: 连理, 听风轻咛
-## Version: 20220210
+## Version: 20240410
 ## Notes: https://github.com/usiege/DBM-VPLianli
+
+
 ## X-DBM-Voice: 1
 ## X-DBM-Voice-Name: 连理
 ## X-DBM-Voice-ShortName: Lianli
-## X-DBM-Voice-Version: 11
+## X-DBM-Voice-Version: 16
 ## X-DBM-Voice-HasCount: 1
 
 
